@@ -1,5 +1,7 @@
 provider "azurerm"{
-  features {}
+  features {
+
+  }
 }
 
 resource "azurerm_resource_group" "ajrg-01"{
